@@ -1,0 +1,76 @@
+ OUTPUT FILE
+
+
+NOT
+EQUAL
+
+
+end of the previous job
+
+
+HELLO WORLD
+
+
+end of the previous job
+
+
+VIT
+VIT
+SAME
+
+
+end of the previous job
+
+
+VIIT
+VIT
+NOT
+SAME
+
+
+end of the previous job
+
+
+3
+2
+1
+
+
+end of the previous job
+
+
+ABCDDCBA
+DCBAABCD
+
+
+end of the previous job
+
+
+HGFEDCBA
+
+
+end of the previous job
+
+
+3 RUNS TO WIN THE MATCH.
+BATSMAN SCORES 1!
+2 RUNS TO WIN THE MATCH.
+BATSMAN SCORES 1!
+1 RUNS TO WIN THE MATCH.
+BATSMAN SCORES 1!
+MATCH WON!
+
+
+end of the previous job
+
+
+*
+**
+***
+**
+*
+
+
+end of the previous job
+
+
